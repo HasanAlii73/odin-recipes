@@ -1,0 +1,34 @@
+body{
+    background: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', ' Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.box{
+    margin: 20px;
+    border: 10px solid navy;
+}
+h1{
+    color: white;
+    background-color: navy;
+    padding: 20px;
+    margin: 0px;
+    text-align: center;
+}
+.recipes{
+    color: red;
+    margin: 0px;
+    font-size: large;
+    list-style: none;
+    list-style-type: square;
+    list-style-position: outside;
+}
+.odd{
+    background-color: lightskyblue;
+    padding: 10px;
+    border: 2px solid white;
+}
+.even{
+    background-color: white;
+    padding: 10px;
+    border: 2px solid navy;
+}
